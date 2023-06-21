@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inconsolata;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #333333;
+}
