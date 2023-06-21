@@ -5,7 +5,7 @@ function App() {
       <div className="flex flex-wrap md:flex-nowrap place-content-center place-items-center font-mono justify-evenly gap-10 py-9 md:py-24">
         <img
           className="w-[500px] h-[280px] md:h-[400px]"
-          src="/scarecrow.png"
+          src="./scarecrow.png"
           alt="image of scarecrow"
         />
         <div className="flex flex-col gap-8 md:px-36">
